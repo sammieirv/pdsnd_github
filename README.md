@@ -1,4 +1,4 @@
-# pdsnd_github
+# The Bikeshare Project
 **Date the project was created:** _This project was created on October 17, 2023_
 
 **Project title:** _The title of this project is **Thebikeshare project**._
